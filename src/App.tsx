@@ -32,9 +32,9 @@ function App() {
             about exploring interesting projects.
           </p>
           <div className="contacts">
-            <a href="">Github</a>
-            <a href="">Telegram</a>
-            <a href="">Discord</a>
+            <a href="https://github.com/ketteiteki" target="_blank">Github</a>
+            <a href="https://t.me/dmtlr" target="_blank">Telegram</a>
+            <a href="https://discordapp.com/users/1027241766778323036" target="_blank">Discord</a>
           </div>
           <div className="skills">
             <DebianSvg className="svg" />
