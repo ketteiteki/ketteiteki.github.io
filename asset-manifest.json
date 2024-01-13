@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66855d6d.css",
+    "main.js": "/static/js/main.c1baca08.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/avatar.jpg": "/static/media/avatar.8a4047cf4e59013e01fd.jpg",
+    "static/media/postgresql.svg": "/static/media/postgresql.9aed68683d15cfc3c3fd8ddf1d89ff4e.svg",
+    "static/media/debian.svg": "/static/media/debian.105b35cec022126e775d44cb904f92e7.svg",
+    "static/media/react.svg": "/static/media/react.598d90dd4f36234e376cbc6ccd571550.svg",
+    "static/media/docker.svg": "/static/media/docker.47a900dbbbbe13dbe7c3171049ec68c8.svg",
+    "static/media/csharp.svg": "/static/media/csharp.040a443e3be3e2ab322fb029ff9dc32a.svg",
+    "static/media/typescript.svg": "/static/media/typescript.3ca8a525abd0f8887aae0089dc4ed25c.svg",
+    "static/media/git.svg": "/static/media/git.8ee81345da1c18b6cdb4bbe93b464810.svg",
+    "static/media/dotnet.svg": "/static/media/dotnet.b36a9e60deda6c9a11705e162497fb61.svg",
+    "index.html": "/index.html",
+    "static/media/angular.svg": "/static/media/angular.8d025088a1ff1e8c05194f4ddab7a0ad.svg",
+    "main.66855d6d.css.map": "/static/css/main.66855d6d.css.map",
+    "main.c1baca08.js.map": "/static/js/main.c1baca08.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66855d6d.css",
+    "static/js/main.c1baca08.js"
+  ]
+}
