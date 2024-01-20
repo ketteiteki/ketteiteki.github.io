@@ -58,10 +58,6 @@ function App() {
         <h3>My Articles</h3>
         <a href="https://github.com/ketteiteki/SecureAzureOIDC/blob/main/out/SecureAzureOIDC.pdf" target="_blank">Secure Azure OIDC</a>
       </div>
-      <div className="professionalProfile">
-        <h3>Professional Profile</h3>
-        <a href="https://github.com/ketteiteki/resume/blob/main/out/dmitry_kudryashov_cv_eng.pdf" target="_blank">Resume</a>
-      </div>
       <div className="fun">
         <h3>Fun</h3>
         <a href="https://shikimori.one/ketteiteki/list/anime?order=rate_score" target="_blank">My anime tier list</a>
