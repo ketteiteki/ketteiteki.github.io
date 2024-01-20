@@ -105,6 +105,10 @@
       text-decoration: underline;
       color: black;
       margin-top: 13px;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 
@@ -122,6 +126,31 @@
       text-decoration: underline;
       color: black;
       margin-top: 13px;
+    
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+
+  .professionalProfile {
+    margin-top: 30px;
+
+    h3 {
+      font-size: 26px;
+      font-weight: bold;
+    }
+
+    a {
+      display: block;
+      font-size: 24px;
+      text-decoration: underline;
+      color: black;
+      margin-top: 13px;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 
@@ -139,6 +168,10 @@
       text-decoration: underline;
       color: black;
       margin-top: 13px;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 }
@@ -168,6 +201,10 @@
   
           a {
             font-size: 20px;
+
+            &:hover {
+              color: rgb(30, 30, 30);
+            }
           }
         }
   
@@ -206,6 +243,16 @@
       }
     }
   
+    .professionalProfile {
+      h3 {
+        font-size: 22px;
+      }
+  
+      a {
+        font-size: 20px;
+      }
+    }
+    
     .fun {
       h3 {
         font-size: 22px;
@@ -221,81 +268,46 @@
 @media screen and (max-width: 1600px) {
   .wrapper {
     max-width: 1000px;
-    // height: 100%;
-    // margin: auto;
     margin-bottom: 50px;
   
     .nickname {
-      // margin-top: 50px;
       font-size: 25px;
-      // font-weight: bold;
     }
   
     .avatarAndDescription {
-      // display: flex;
       margin-top: 20px;
       gap: 40px;
   
       .avatarContainer {
-        // height: 264px;
-        // flex-shrink: 0;
-  
         .avatar {
           width: 180px;
           height: 180px;
           margin: 0 auto;
-          // border-radius: 100%;
-          // border: 3px solid black;
         }
       }
       
       .descriptionContainer {
         width: 600px;
-        // height: 305px;
   
         .description {
           font-size: 20px;
         }
   
-        // .descriptionLine1 {
-        //   width: 250px;
-        //   height: 2px;
-        //   // background-color: black;
-        //   // margin: 0 auto;
-        //   margin-top: 25px;
-        // }
-  
         .contacts {
-          // display: flex;
-          // justify-content: space-between;
           width: 250px;
-          // margin: 0 auto;
           margin-top: 12px;
   
           a {
-            // color: black;
-            // text-decoration: none;
             font-size: 15px;
           }
         }
   
-        // .descriptionLine2 {
-        //   width: 250px;
-        //   height: 2px;
-        //   // background-color: black;
-        //   // margin: 0 auto;
-        //   margin-top: 12px;
-        // }
-  
         .skills {
           width: 263px;
-          // margin: 0 auto;
-          // margin-top: 15px;
   
           .svg {
             width: 25px;
             height: 25px;
-            // margin: 0 2px 0 2px;
           }
         }
       }
@@ -306,49 +318,40 @@
   
       h3 {
         font-size: 20px;
-        // font-weight: bold;
       }
   
       a {
-        // display: block;
         font-size: 18px;
-        // text-decoration: underline;
-        // color: black;
-        // margin-top: 13px;
       }
     }
   
     .articles {
-      // margin-top: 30px;
-  
       h3 {
         font-size: 20px;
-        // font-weight: bold;
       }
   
       a {
-        // display: block;
         font-size: 18px;
-        // text-decoration: underline;
-        // color: black;
-        // margin-top: 13px;
       }
     }
   
-    .fun {
-      // margin-top: 30px;
-  
+    .professionalProfile {
       h3 {
         font-size: 20px;
-        // font-weight: bold;
       }
   
       a {
-        // display: block;
         font-size: 18px;
-        // text-decoration: underline;
-        // color: black;
-        // margin-top: 13px;
+      }
+    }
+
+    .fun {
+      h3 {
+        font-size: 20px;
+      }
+  
+      a {
+        font-size: 18px;
       }
     }
   }
@@ -401,6 +404,13 @@
       margin-top: 30px;
     }
   
+    .professionalProfile {
+      max-width: 600px;
+      width: 100%;
+      margin: 0 auto;
+      margin-top: 30px;
+    }
+
     .fun {
       max-width: 600px;
       width: 100%;
@@ -416,6 +426,10 @@
   }
 
   .articles {
+    width: 100%;
+  }
+
+  .professionalProfile {
     width: 100%;
   }
 
@@ -489,6 +503,18 @@
       }
     }
   
+    .professionalProfile {
+      margin-top: 20px;
+  
+      h3 {
+        font-size: 16px;
+      }
+  
+      a {
+        font-size: 14px;
+      }
+    }
+
     .fun {
       margin-top: 20px;
   
